@@ -20,4 +20,4 @@ Tôi có một vài dự án thú vị:
 
 - **Mail**: luongnghia0203@gmail.com
 
-Nếu cảm thấy hứng thú hãy liên hệ với tôi! 😊
+Nếu cảm thấy hứng thú và cùng chung đam mê hãy liên hệ với tôi ! 😊
