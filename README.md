@@ -11,7 +11,7 @@ Tôi là một freelancer và tôi đam mê công nghệ. Dưới đây là mộ
 
 ## Dự án
 
-Tôi có một chút dự án thú vị:
+Tôi có một vài dự án thú vị:
 
 1. **Ứng dụng quản lý công việc**: Tôi đã phát triển một ứng dụng web đơn giản để quản lý danh sách công việc hàng ngày của mình.
 2. **Chatbot**: Tôi đã tạo một chatbot đơn giản nhằm quản lý sever discord riêng của mình một cách dễ dàng hơn.
