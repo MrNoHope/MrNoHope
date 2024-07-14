@@ -2,8 +2,6 @@
 
 # Xin chào! Tôi là [Nguyễn Lương Nghĩa] hay là [MrNoHope] 👋
 
-Ngày, tháng, năm sinh: 24/8/2000
-
 Tôi là một freelancer và tôi đam mê công nghệ. Dưới đây là một chút thông tin về tôi:
 
 ## Kỹ năng và công nghệ
@@ -28,8 +26,6 @@ Nếu chúng ta có cùng đam mê đừng ngần ngại liên hệ với tôi n
 **ENGLISH**
 
 # Hello! I am  [Nguyen Luong Nghia] or [MrNoHope] 👋
-
-Date of birth: 8/24/2000
 
 I'm a freelancer and I'm passionate about technology. Here's a little bit of information about me:
 
