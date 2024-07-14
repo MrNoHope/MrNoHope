@@ -1,6 +1,6 @@
 # Xin chào! Tôi là [Nguyễn Lương Nghĩa] hay là [MrNoHope] 👋
 
-Tôi là một lập trình viên đam mê về công nghệ và mã nguồn mở. Dưới đây là một chút về tôi:
+Tôi là một freelancer và tôi đam mê công nghệ. Dưới đây là một chút về tôi:
 
 ## Kỹ năng và công nghệ
 
