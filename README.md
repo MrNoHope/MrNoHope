@@ -7,7 +7,7 @@ Tôi là một freelancer và tôi đam mê công nghệ. Dưới đây là mộ
 - **Ngôn ngữ lập trình**: Python, C#, C/C++
 - **Công nghệ web**: HTML, CSS
 - **Cơ sở dữ liệu**: MySQL
-- **Công cụ phát triển**: Visual Studio 2022, Dev C/C++
+- **Công cụ phát triển**: Visual Studio 2022, Dev C/C++, Git
 
 ## Dự án
 
