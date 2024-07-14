@@ -18,6 +18,6 @@ Tôi có một chút dự án thú vị:
 
 ## Liên hệ
 
-- **Mail**: luongnghia0203@gmail.com
+- **Mail**: luongnghia0204@gmail.com
 
 Nếu cùng chung đam mê và hứng thú thì hãy liên hệ với tôi nhé ! 😊
