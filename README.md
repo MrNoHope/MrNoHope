@@ -1,52 +1,44 @@
-**VIETNAMESE**
+# Nguyen Luong Nghia
+**Aspiring Technical Game Designer & Frontend Developer**
 
-# Xin chào! Tôi là [Nguyễn Lương Nghĩa] hay là [MrNoHope] 👋
+Third-year Software Engineering student at the University of Management and Technology (UMT). Deeply passionate about the intersection of logic-driven architecture and human-centered design. My focus lies in mapping complex system flows, balancing interactive mechanics, and developing responsive user interfaces that deliver intuitive and immersive digital experiences.
 
-Tôi là một freelancer và tôi đam mê công nghệ. Dưới đây là một chút thông tin về tôi:
+---
 
-## Kỹ năng và công nghệ
+### Areas of Expertise
 
-- **Ngôn ngữ lập trình**: Python, C#, C/C++
-- **Công nghệ web**: HTML, CSS
-- **Cơ sở dữ liệu**: MySQL
-- **Công cụ phát triển**: Visual Studio 2022, Dev C/C++, Git
+* **System & Game Design:** Transforming complex logic into accessible user journeys. Specialized in gameplay mechanics, user flow mapping, and world-building.
+* **Frontend Development:** Building clean, interactive interfaces with a strong emphasis on state management, algorithm integration, and logical data rendering.
+* **Narrative & Audio:** Integrating technical execution with creative writing, narrative structuring, and audio production (beat-making) to enhance the overall immersion of a project.
 
-## Dự án
+---
 
-Tôi có một vài dự án thú vị:
+### Technologies & Tools
 
-1. **Ứng dụng quản lý công việc**: Tôi đã phát triển một ứng dụng web đơn giản để quản lý danh sách công việc hàng ngày của mình.
-2. **Chatbot**: Tôi đã tạo một chatbot đơn giản nhằm quản lý sever discord riêng của mình một cách dễ dàng hơn.
+* **Programming Languages:** C#, C++, JavaScript, Python
+* **Frontend Development:** React, HTML5, CSS3, Tailwind CSS
+* **Design & Architecture:** Figma (UI Architecture, User Flow Mapping)
+* **Methodologies:** Git Version Control, RESTful APIs, Algorithm Design, Agile Workflow
 
-## Lời cuối
+---
 
-Nếu chúng ta có cùng đam mê đừng ngần ngại liên hệ với tôi nhé !
+### Selected Projects
 
+**1. Interactive Music Mixer** * **Role:** Audio Logic & Interface Designer
+* **Overview:** Developed a structured interface for layering and mixing audio tracks. Implemented core synchronization logic and audio controls to ensure a seamless, responsive auditory experience based on practical music production principles.
 
-**ENGLISH**
+**2. Cybercafe Management Ecosystem**
+* **Role:** System Flow Designer & Frontend Developer
+* **Overview:** Mapped out administrative flows and programmed a functional React-based dashboard designed to handle real-time device monitoring and revenue tracking with a focus on data clarity.
 
-# Hello! I am  [Nguyen Luong Nghia] or [MrNoHope] 👋
+**3. AI Appliance Recognition (Accessibility UX)**
+* **Role:** UX Accessibility Designer
+* **Overview:** Designed a frictionless interface for an AI-powered recognition tool targeting tech-illiterate users. Utilized simplified flow mapping and clear visual cues to eliminate navigation barriers.
 
-I'm a freelancer and I'm passionate about technology. Here's a little bit of information about me:
+*(Note: Certain freelance and narrative design repositories remain private to comply with confidentiality agreements.)*
 
-## Skills and technology
+---
 
-- **Programming Languages**: Python, C#, C/C++
-- **Web Technology**: HTML, CSS
-- **Database**: MySQL
-- **Developer Tools**: Visual Studio 2022, Dev C/C++, Git
+### Contact Information
 
-## Project
-
-I have a few interesting projects:
-
-1. **Task Management App**: I have developed a simple web application to manage my daily to-do list.
-2. **Chatbot**: I've created a simple chatbot to make it easier to manage my own discord server.
-
-## Final 
-
-If we have the same passion, don't hesitate to contact me !
-
-
-
-
+Currently seeking part-time or internship opportunities to apply software engineering fundamentals and creative problem-solving within a professional game development or tech studio environment.
